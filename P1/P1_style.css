@@ -83,14 +83,3 @@ body {
 body.dark {
   background: #333;
 }
-
-@media only screen and (max-device-width: 812px) { 
-    body {
-    background: pink;
-}
-
-@media only screen and (max-width: 812px) { 
-    body {
-        background: beige;
-    }
-}
